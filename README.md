@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# product-management-system
+>>>>>>> 44ae4d9e8006003816bfd87f0c3a75b2f7cb31ba
 # Product Management System
 
 A full-stack web application for managing products with CRUD operations, built with React, Node.js, Express, and MongoDB.
